@@ -1,10 +1,10 @@
 {
-    "id": "GUID",
-    "name": "Extension Name",
+    "id": "2122de09-9101-4579-85a3-f94d0d9f64e6",
+    "name": "Directions EMEA - 2019",
     "publisher": "TharangaC",
     "brief": "",
     "description": "Customer Specific Functionality",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "privacyStatement": "",
     "EULA": "",
     "help": "",
@@ -25,8 +25,8 @@
     "target": "Extension",
     "idRanges": [
       {
-        "from": 55000,
-        "to": 55200
+        "from": 50100,
+        "to": 50199
       }
     ],
   "contextSensitiveHelpUrl": "https://help.365extensions.com/?path=./$(AppShortId)/$(AppVersion)/{0}",
